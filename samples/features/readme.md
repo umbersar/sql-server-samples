@@ -10,7 +10,11 @@ Master Data Services (MDS) is the SQL Server solution for master data management
 
 [R Services](r-services)
 
-SQL Server R Services brings R processing close to the data, allowing more scalable and more efficient predictive analytics.
+SQL Server R Services (in SQL Server 2016 and above) brings R processing close to the data, allowing more scalable and more efficient predictive analytics using R in-database.
+
+[ML Services](ml-services)
+
+SQL Server ML Services (SQL Server 2017) brings Python processing close to the data, allowing more scalable and more efficient predictive analytics using Python in-database.
 
 [JSON Support](json)
 
@@ -20,8 +24,19 @@ Built-in JSON functions enable you to easily parse and query JSON data stored in
 
 Built-in temporal functions enable you to easily track history of changes in a table, go back in history, and analyze historical data.
 
+[Graph Tables](sql-graph)
+
+Graph tables enable you to add a non-relational capability to your database.
+
+[SQL Management Objects (SMO)](sql-management-objects)
+
+The SQL Server Management Objects (SMO) Framework is a set of objects designed for programmatic management of Microsoft SQL Server and Microsoft Azure SQL Database. These code snippets demonstrate features of SMO and illustrate how to use SMO properties and collections without sacrificing performance.
+
 ## Samples for Business Intelligence features within SQL Server
 
 [Reporting Services (SSRS)](reporting-services)
 
 Reporting Services provides reporting capabilities for your organziation. Reporting Services can be integrated with SharePoint Server or used as a standalone service.
+
+
+
